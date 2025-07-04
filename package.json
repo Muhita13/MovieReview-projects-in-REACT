@@ -1,7 +1,7 @@
 {
   "name": "moviereview",
   "version": "0.1.0",
-  "homepage": "https://muhita13.github.io/MovieReview-project-in-REACT/",
+  "homepage": "https://muhita13.github.io/MovieReview-projects-in-REACT/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
