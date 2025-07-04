@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieReview-projects-in-REACT/static/css/main.d56aec85.css",
+    "main.js": "/MovieReview-projects-in-REACT/static/js/main.f4449a65.js",
+    "static/js/453.abde4f14.chunk.js": "/MovieReview-projects-in-REACT/static/js/453.abde4f14.chunk.js",
+    "index.html": "/MovieReview-projects-in-REACT/index.html",
+    "main.d56aec85.css.map": "/MovieReview-projects-in-REACT/static/css/main.d56aec85.css.map",
+    "main.f4449a65.js.map": "/MovieReview-projects-in-REACT/static/js/main.f4449a65.js.map",
+    "453.abde4f14.chunk.js.map": "/MovieReview-projects-in-REACT/static/js/453.abde4f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56aec85.css",
+    "static/js/main.f4449a65.js"
+  ]
+}
